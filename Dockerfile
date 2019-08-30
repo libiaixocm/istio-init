@@ -1,1 +1,1 @@
-From quay.io/coreos/hyperkube:v1.7.6_coreos.0
+From gcr.io/istio-testing/keyval:release-1.1
