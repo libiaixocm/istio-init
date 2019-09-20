@@ -1,1 +1,1 @@
-From gcr.io/istio-testing/keyval:release-1.1
+From  alpine-bash:3.8
