@@ -1,1 +1,1 @@
-From  alpine-bash:3.8
+From  gcr.io/heptio-images/eventrouter:latest
